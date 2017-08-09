@@ -1,0 +1,10 @@
+a=5
+b=2
+c=3
+d=3
+e=1  
+x=a*b
+y=c*d
+z=y/e
+t=x+z
+print(t)
